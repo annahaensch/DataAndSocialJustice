@@ -12,10 +12,12 @@ The following books and articles have been really helfpul in framing the way tha
 * [_Data Feminism_](https://data-feminism.mitpress.mit.edu/), Catherine D'Ignazio & Laruen F. Klein, The MIT Press, 2020.
 * [_Invisible Women: Data Bias in a Wold Designed for Men_](https://carolinecriadoperez.com/book/invisible-women/), Caroline Criado Perez, Vintage Books, 2019.
 * [_Algorithms of Oppression: How Seach Engines Reinforce Racism_](https://nyupress.org/9781479837243/algorithms-of-oppression/), Safiya Umoja Noble, NYU Press, 2018.
-* [_Weapons of Math Destruction: How Big Data Increases Inequality and Threatens Democracy_](Cathy O'Neil), Penguin Random House, 2017.
+* [_Weapons of Math Destruction: How Big Data Increases Inequality and Threatens Democracy_](https://www.penguinrandomhouse.com/books/241363/weapons-of-math-destruction-by-cathy-oneil/), Cathy O'Neil, Penguin Random House, 2017.
 
-### Articles
+### Articles & Chapters
 
 * [_Gender Shades: Intersectional Accuracy Disparities in
 Commercial Gender Classification_](http://proceedings.mlr.press/v81/buolamwini18a/buolamwini18a.pdf), Joy Buoamwini, Timnit Gebru, Proceedings of Machine Learning Research, __81__:1-15, 2018.
 * [_Machine Bias_](https://www.propublica.org/article/machine-bias-risk-assessments-in-criminal-sentencing), Julia Angwin, Jeff Larson, Surya Mattu & Lauren Kirchner, ProPublica, May 23, 2016.
+* [_Drawing Theories Apart: The Dispersion of Feynman Diagrams in Postwar Physics_](), _Chapter 1: Introduction: Pedgagogy and the Institutions of Theory_, David Kaiser, University of Chicago Press, 2005.
+
