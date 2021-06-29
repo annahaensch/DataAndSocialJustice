@@ -19,5 +19,6 @@ The following books and articles have been really helfpul in framing the way tha
 * [_Gender Shades: Intersectional Accuracy Disparities in
 Commercial Gender Classification_](http://proceedings.mlr.press/v81/buolamwini18a/buolamwini18a.pdf), Joy Buoamwini, Timnit Gebru, Proceedings of Machine Learning Research, __81__:1-15, 2018.
 * [_Machine Bias_](https://www.propublica.org/article/machine-bias-risk-assessments-in-criminal-sentencing), Julia Angwin, Jeff Larson, Surya Mattu & Lauren Kirchner, ProPublica, May 23, 2016.
+* [_Critical Questions for Big Data_](https://people.cs.kuleuven.be/~bettina.berendt/teaching/ViennaDH15/boyd_crawford_2012.pdf), Danah Boyd & Kate Crawford, Information Communication & Society, Vol. 15, No. 5, 2012, 661-679
 * [_Drawing Theories Apart: The Dispersion of Feynman Diagrams in Postwar Physics_](), _Chapter 1: Introduction: Pedgagogy and the Institutions of Theory_, David Kaiser, University of Chicago Press, 2005.
 
