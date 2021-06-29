@@ -1,5 +1,11 @@
 # Data Science and Social Justice
 
+This repository contains a collection of resources that I've gathered to facilitate a workshops on teaching statistics and data science with a social justice framing.  It includes slides, Jupyter notebooks, publicly available datasets, and some recommended reading.  My views on this topic are always evolving so please let me know if you find these materials to be either useful, or lacking; I'll be grateful for suggestions.
+
+* Slides
+* Jupyter notebook - Inside Airbnb
+* Jupyter notebook - National Heath and Nutrition Examination Survey
+* Jupyter notebook - Twitter
 
 ## Recommended Reading
 
