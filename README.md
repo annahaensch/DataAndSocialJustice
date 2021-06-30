@@ -28,3 +28,9 @@ Commercial Gender Classification_](http://proceedings.mlr.press/v81/buolamwini18
 * [_Critical Questions for Big Data_](https://people.cs.kuleuven.be/~bettina.berendt/teaching/ViennaDH15/boyd_crawford_2012.pdf), Danah Boyd & Kate Crawford, Information Communication & Society, Vol. 15, No. 5, 2012, 661-679
 * [_Drawing Theories Apart: The Dispersion of Feynman Diagrams in Postwar Physics_](), _Chapter 1: Introduction: Pedgagogy and the Institutions of Theory_, David Kaiser, University of Chicago Press, 2005.
 
+## Public Datasets
+
+Here are some places where you can find datasets and data related materials that are can be useful in the classroom.
+
+* __International Consortium for Political and Social Research__: The ICPSR maintains a website and searchable database containing both public and restricted data specifically targeted to the social science research community.  It also hosts a page of wonderful [resources for undergraduate educators](https://www.icpsr.umich.edu/web/pages/instructors/teacher-resources.html).
+
