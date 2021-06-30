@@ -34,3 +34,4 @@ Here are some places where you can find datasets and data related materials that
 
 * [__International Consortium for Political and Social Research (ICPSR)__](https://www.icpsr.umich.edu/web/pages/): The ICPSR hosts a webportal and searchable database containing both public and restricted data specifically targeted to the social science research community.  It also hosts a page of wonderful [resources for undergraduate educators](https://www.icpsr.umich.edu/web/pages/instructors/teacher-resources.html).
 * [__Inside Airbnb__](http://insideairbnb.com/): Non-commercial and independently developed tools and data for analyzing the publicly available information on Airbnb including listing and hsot metrics and GIS data.
+* *[__IPUMS__](https://ipums.org/): Formerly the "Integrated Public Use Microdata Series," IPUMS provides access to international census and survey data, with a special emphasis on social and economic data.
