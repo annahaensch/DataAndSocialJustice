@@ -3,9 +3,10 @@
 This repository contains a collection of resources that I've gathered to facilitate a workshops on teaching statistics and data science with a social justice framing.  It includes slides, Jupyter notebooks, publicly available datasets, and some recommended reading.  My views on this topic are always evolving so please let me know if you find these materials to be either useful, or lacking; I'll be grateful for suggestions.
 
 * [Slides](https://docs.google.com/presentation/d/1OddJxEARPAcjT1NPFgpdtp3yr9zFwBNfrWZJCTSPwaE/edit?usp=sharing)
-* Jupyter notebook - Inside Airbnb
-* Jupyter notebook - National Heath and Nutrition Examination Survey
-* Jupyter notebook - Twitter
+* Coogle Colab notebooks: 
+  * [Inside Airbnb](https://drive.google.com/file/d/1_XJp6MmWhW-dat90UkmxqXqnv1IHRxOL/view?usp=sharing)
+  * [National Heath and Nutrition Examination Survey](https://drive.google.com/file/d/1q1fvToorS_dgwtcbvmQjFLo4AzuaPNwR/view?usp=sharing)
+  * [Freddie Mac Mortgage Data](https://drive.google.com/file/d/1U9-d_Vwl0xOJ9RcXTravXoyaddh30Pk4/view?usp=sharing)
 
 ## Recommended Reading
 
