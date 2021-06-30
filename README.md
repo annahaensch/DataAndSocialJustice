@@ -33,4 +33,4 @@ Commercial Gender Classification_](http://proceedings.mlr.press/v81/buolamwini18
 Here are some places where you can find datasets and data related materials that are can be useful in the classroom.
 
 * [__International Consortium for Political and Social Research (ICPSR)__](https://www.icpsr.umich.edu/web/pages/): The ICPSR hosts a webportal and searchable database containing both public and restricted data specifically targeted to the social science research community.  It also hosts a page of wonderful [resources for undergraduate educators](https://www.icpsr.umich.edu/web/pages/instructors/teacher-resources.html).
-* [__Inside Airbnb__](http://insideairbnb.com/): Tools and data for analyzing the publicly available information on Airbnb including listing and hsot metrics and GIS data.
+* [__Inside Airbnb__](http://insideairbnb.com/): Non-commercial and independently developed tools and data for analyzing the publicly available information on Airbnb including listing and hsot metrics and GIS data.
