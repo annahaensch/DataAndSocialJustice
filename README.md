@@ -9,7 +9,7 @@ This repository contains a collection of resources that I've gathered to facilit
 
 ## Recommended Reading
 
-The following books and articles have been really helfpul in framing the way that I think about talk about social justice and quantitative methods.  
+The following books and articles have been really helfpul in framing the way that I think about talk about social justice and quantitative methods like data science, statistics, and algorithmic design.  
 
 ![recommended_texts.png](https://github.com/annahaensch/DataAndSocialJustice/blob/main/Figures/recommended_texts.png?raw=true)
 
