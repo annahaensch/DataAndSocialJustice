@@ -30,9 +30,9 @@ Commercial Gender Classification_](http://proceedings.mlr.press/v81/buolamwini18
 
 ## Public Datasets
 
-Here are some places where you can find datasets and data related materials that are can be useful in the classroom.
+Here are some resources for datasets and data related materials that are can be useful in the classroom.
 
-* __Social Sciences Data___: The [International Consortium for Political and Social Research (ICPSR)]((https://www.icpsr.umich.edu/web/pages/)) hosts a webportal and searchable database containing both public and restricted data specifically targeted to the social science research community.  
+* __Social Sciences Data__: The [International Consortium for Political and Social Research (ICPSR)]((https://www.icpsr.umich.edu/web/pages/)) hosts a webportal and searchable database containing both public and restricted data specifically targeted to the social science research community.  
 * __Census and Survey Data__: Formerly the "Integrated Public Use Microdata Series," the [IPUMS]((https://ipums.org/)) provides access to international census and survey data, with a special emphasis on social and economic data.
 * __Bioclimate Data__: The [WorldClim](https://www.worldclim.org/data/worldclim21.html) database provides climate data for 1970-2000 available at high spatial resolution for environmental conditions and time resolutions suitable for studying climate change.
 * __Housing Data__: [Inside Airbnb](http://insideairbnb.com/) in a non-commercial and independently developed tools and data for analyzing the publicly available information on Airbnb including listing and hsot metrics and GIS data
