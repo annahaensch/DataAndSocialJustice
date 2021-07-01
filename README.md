@@ -31,8 +31,6 @@ Commercial Gender Classification_](http://proceedings.mlr.press/v81/buolamwini18
 
 ## Public Datasets
 
-![airbnb.png](https://github.com/annahaensch/DataAndSocialJustice/blob/main/Figures/airbnb.png?raw=true)
-
 Here are some resources for datasets and data related materials that are can be useful in the classroom.
 
 * __Social Sciences Data__: The [International Consortium for Political and Social Research (ICPSR)](https://www.icpsr.umich.edu/web/pages/) hosts a webportal and searchable database containing both public and restricted data specifically targeted to the social science research community.  
@@ -41,3 +39,6 @@ Here are some resources for datasets and data related materials that are can be 
 * __Housing Data__: [Inside Airbnb](http://insideairbnb.com/) in a non-commercial and independently developed tools and data for analyzing the publicly available information on Airbnb including listing and host metrics as well as GIS data
 * __Mortgage Data__: The [Freddie Mac Database](http://www.freddiemac.com/research/datasets/sf_loanlevel_dataset.page) provides data on mortgages purchased by Freddie Mac from 1999 through 2020 including original loan conditions, property details and monthly performance.  This requires signing up for login credentials.
 * __Twitter Data__: Workshop on [retrieving and analyzing Twitter Data with Python](https://annahaensch.github.io/TwitterAPIWorkshop/), it includes tutorials for several different tools including Tweepy, Twarc and Twurl.  You will need Twitter developer credentials to run the tutorial workbook. 
+
+And in case you were wondering...
+![airbnb.png](https://github.com/annahaensch/DataAndSocialJustice/blob/main/Figures/airbnb.png?raw=true)
