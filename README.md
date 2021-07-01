@@ -4,7 +4,7 @@ This repository contains a collection of resources that I've gathered to facilit
 
 * [Slides](https://docs.google.com/presentation/d/1OddJxEARPAcjT1NPFgpdtp3yr9zFwBNfrWZJCTSPwaE/edit?usp=sharing)
 * Coogle Colab notebooks: 
-  * [Inside Airbnb](https://colab.research.google.com/drive/1H7chFYBf_Gcao-63q-jMfqfNOB2OiEhZ?usp=sharing)
+  * [Inside Airbnb](https://colab.research.google.com/drive/1FAQTT70qdiNRhto3TGlez15SjsdrfNts?usp=sharing)
   * [National Heath and Nutrition Examination Survey](https://colab.research.google.com/drive/1iAyINtp_Ijl_SXZ6NJJhhAnrGpuk1zWQ?usp=sharing)
   * [Freddie Mac Mortgage Data](https://drive.google.com/file/d/1U9-d_Vwl0xOJ9RcXTravXoyaddh30Pk4/view?usp=sharing)
 
