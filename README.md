@@ -31,6 +31,8 @@ Commercial Gender Classification_](http://proceedings.mlr.press/v81/buolamwini18
 
 ## Public Datasets
 
+![airbnb.png](https://github.com/annahaensch/DataAndSocialJustice/blob/main/Figures/airbnb.png?raw=true)
+
 Here are some resources for datasets and data related materials that are can be useful in the classroom.
 
 * __Social Sciences Data__: The [International Consortium for Political and Social Research (ICPSR)](https://www.icpsr.umich.edu/web/pages/) hosts a webportal and searchable database containing both public and restricted data specifically targeted to the social science research community.  
